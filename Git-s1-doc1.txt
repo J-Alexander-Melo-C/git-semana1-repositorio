@@ -1,1 +1,2 @@
-Ejercitando la herramienta de git y github
+Ejercitando la herramienta de git y github.
+Se commiteo pero ahora se realiza segunda modificacion sobre el archivo para ver los cambios ocurridos con esto.
